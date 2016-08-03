@@ -1,5 +1,6 @@
 # Head
 
+- Added: `declaration-block-no-redundant-longhand-properties` rule.
 - Added: `--report-needless-disables` and `reportNeedlessDisables` option.
 - Added: `--ignore-disables` and `ignoreDisables` option.
 - Added: `value-list-max-empty-lines` rule.
